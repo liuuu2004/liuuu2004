@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liuuu2004
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++, javaEE and computer graphics
+- 🌱 I’m currently learning database, Java EE and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
